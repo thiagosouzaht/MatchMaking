@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MatchMaking.Contracts", "MatchMaking.Contracts\MatchMaking.Contracts.csproj", "{CA84427E-8325-4A1E-89C1-6B498E817540}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MatchMaking.MatchApi", "MatchMaking.MatchApi\MatchMaking.MatchApi.csproj", "{97AB7470-FE28-4298-A2CA-684B0D050F24}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MatchMaking.Client", "MatchMaking.Client\MatchMaking.Client.csproj", "{5334AE6B-ECD9-42B6-A5DE-D9B6036BF0A8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MatchMaking.MatchApi.Tests", "MatchMaking.MatchApi.Tests\MatchMaking.MatchApi.Tests.csproj", "{EC7880A7-EF0A-47C6-B8C4-55B3350C1180}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CA84427E-8325-4A1E-89C1-6B498E817540}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA84427E-8325-4A1E-89C1-6B498E817540}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA84427E-8325-4A1E-89C1-6B498E817540}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA84427E-8325-4A1E-89C1-6B498E817540}.Release|Any CPU.Build.0 = Release|Any CPU
+		{97AB7470-FE28-4298-A2CA-684B0D050F24}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97AB7470-FE28-4298-A2CA-684B0D050F24}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97AB7470-FE28-4298-A2CA-684B0D050F24}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97AB7470-FE28-4298-A2CA-684B0D050F24}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5334AE6B-ECD9-42B6-A5DE-D9B6036BF0A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5334AE6B-ECD9-42B6-A5DE-D9B6036BF0A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5334AE6B-ECD9-42B6-A5DE-D9B6036BF0A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5334AE6B-ECD9-42B6-A5DE-D9B6036BF0A8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EC7880A7-EF0A-47C6-B8C4-55B3350C1180}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC7880A7-EF0A-47C6-B8C4-55B3350C1180}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC7880A7-EF0A-47C6-B8C4-55B3350C1180}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC7880A7-EF0A-47C6-B8C4-55B3350C1180}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
